@@ -1,0 +1,46 @@
+html, body {
+    margin:0;
+    padding:0;
+    }
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+nav {
+    background-color: #333333;
+    height:45px;
+}
+.InsideNav {
+    margin:auto;
+    width:85%;
+    height:45px;
+    line-height:45px;
+}
+.login {
+    text-align:right;
+}
+mark {
+    background-color: transparent;
+}
+.onLeft {
+    float:left;
+    color:white;
+    margin-left:25px;
+    list-style-type: none;
+}
+.onLeftLogo {
+    float:left;
+    color:white;
+    list-style-type: none;
+}
+.onRight {
+    float:right;
+    color:white;
+    list-style-type: none;
+    background-image:url(assets/images/login.png);
+    background-repeat: no-repeat;
+    padding-left:20px;
+    transform: translate(-20px);
+}
+.pointer {
+    cursor:pointer;
+}
