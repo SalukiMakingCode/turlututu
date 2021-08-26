@@ -19,9 +19,28 @@ h2 {
     line-height: 25px;
 }
 footer {
+    width:100%;
     background-color: black;
-    color:white;
+    color:#C2D1D2;
     height:64px;
+    margin:0;
+    padding:0;
+}
+.Reset {
+    margin:0;
+    padding:0;
+}
+.onLeftFooter {
+    float:left;
+    list-style-type: none;
+    margin-top:10px;
+    padding-left:12px;
+}
+.onRightFooter {
+    float:right;
+    margin-top:10px;
+    list-style-type: none;
+    padding-right:45px;
 }
 .Partner {
     background-color: #EEEEEE;
