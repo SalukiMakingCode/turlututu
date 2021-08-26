@@ -12,6 +12,15 @@ nav {
 main {
     background-color:#1E93CC;
 }
+h2 {
+    font-weight: normal;
+    font-size: 30px;
+    color:white;
+    line-height: 25px;
+}
+.TrucMuch1 {
+    transform: translate(1100%, -90px);
+}
 .Logo {
     margin-top:30px;
 }
@@ -23,9 +32,33 @@ main {
     padding-top:20px;
     padding-bottom: 20px;
 }
+.Banner2 {
+    background-color: white;
+    width:100%;
+    text-align: center;
+    font-size:28px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    color:#877B8C;
+}
 .FirstTitle {
     color:white;
     font-size:30px;
+}
+.SecondSection {
+    display:flex;
+    flex-wrap:wrap;
+    margin:auto;
+    width:80%;
+    padding-top:50px;
+    color:white;
+}
+.BlockArticle {
+    width:48%;
+    margin-right:1%;
+    color:#BAC9D7;
+    font-weight: bold;
+    font-size:17px;
 }
 .StartButton {
     background-color:#e99002;
