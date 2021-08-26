@@ -52,6 +52,10 @@ footer {
 .TrucMuch1 {
     transform: translate(1100%, -90px);
 }
+.TrucMuch2 {
+    transform: translate(190px, -38px);
+}
+
 .Logo {
     margin-top:30px;
 }
