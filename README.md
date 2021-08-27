@@ -5,4 +5,4 @@ Exercise to finish sprint 1
 This is a exercise to finish the first trail in HTML/CSS
 
 ## Where to find ?
-This project is publish ![here](https://salukimakingcode.github.io/turlututu/)
+This project is publish [here](https://salukimakingcode.github.io/turlututu/)
