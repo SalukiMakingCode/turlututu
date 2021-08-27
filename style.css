@@ -49,13 +49,11 @@ footer {
     padding-top:60px;
     line-height: 110px;
 }
-.TrucMuch1 {
-    transform: translate(1100%, -90px);
+.TrucMuch{
+    position: fixed;
+    bottom:1em;
+    right:1em;
 }
-.TrucMuch2 {
-    transform: translate(190px, -38px);
-}
-
 .Logo {
     margin-top:30px;
 }
