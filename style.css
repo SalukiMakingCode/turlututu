@@ -130,12 +130,43 @@ footer {
     padding:15px;
     border-radius: 10px;
 }
+@media screen and (min-width: 800px) {
 .InsideNav {
     margin:auto;
     width:85%;
     height:45px;
     line-height:45px;
 }
+}
+@media screen and (max-width: 800px) {
+    .InsideNav {
+        margin:auto;
+        width:95%;
+        height:45px;
+        line-height:45px;
+    }
+}
+label {
+    display:none;
+}
+@media all and (max-width: 850px) {
+    .InsideNav {
+        display:none;
+    }
+    label {
+        width: 30px;
+        display: block;
+/*        justify-content: center;
+        align-items: center;
+        margin: 0 auto;*/
+        font-size: 40px;
+        color: white;
+        cursor: pointer;
+    }
+}
+
+
+
 .FirstSection {
     margin:auto;
     width:85%;
